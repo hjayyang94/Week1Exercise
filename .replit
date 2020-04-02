@@ -1,0 +1,2 @@
+language = "java10"
+run = "cd Exercise1;javac TermFrequency.java;java TermFrequency ../pride_and_prejudice.txt"
